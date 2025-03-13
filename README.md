@@ -91,5 +91,5 @@ To simulate **TikTok’s e-commerce data science challenges**, this project appl
 
 ## 📌 **Connect with Me**
 - **LinkedIn:** [Shrunali Salian](https://www.linkedin.com/in/shrunali-salian/)  
-- **Portfolio:** [Your Portfolio Link](#)  
+- **Portfolio:** [https://portfolio-shrunali-suresh-salians-projects.vercel.app/](#)  
 - **Email:** [Your Email](#)  
